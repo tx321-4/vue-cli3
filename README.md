@@ -1,5 +1,7 @@
 # vue_manage02
 
+## @vue-cli3 初始化仓库 用于快速开发使用
+
 ## Project setup
 ```
 npm install
